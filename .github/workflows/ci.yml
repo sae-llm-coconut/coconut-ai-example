@@ -26,4 +26,3 @@ jobs:
       - run: 'pipenv run lint-autopep8'
       - run: 'pipenv run lint-mypy'
       - run: 'pipenv run lint-editorconfig'
-      - run: 'pipenv run build'

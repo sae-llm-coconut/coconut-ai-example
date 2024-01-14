@@ -7,6 +7,9 @@ name = "pypi"
 python_version = "3.10"
 
 [scripts]
+lint-autopep8 = "autopep8 --recursive --diff src"
+lint-mypy = "mypy src"
+lint-editorconfig = "ec"
 start = "python -m src"
 
 [packages]
