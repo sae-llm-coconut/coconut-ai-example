@@ -1,8 +1,10 @@
 # coconut-ai-example
 
-Example usage of [`coconut-ai` Python library](https://github.com/sae-llm-coconut/coconut-ai/).
+Example usage of [`coconut-ai` Python library](https://github.com/sae-llm-coconut/coconut-ai/), to generate comics story in 3-4 panels, first by using [LLama 2](https://ai.meta.com/llama/) to generate the story, then by using [AUTOMATIC1111/Stable Diffusion Web API](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to generate the images.
 
 ## Getting Started
+
+For a complete installation guide, please refer to the [`coconut-ai` Python library](https://github.com/sae-llm-coconut/coconut-ai/).
 
 ### Prerequisites
 
@@ -13,18 +15,7 @@ Example usage of [`coconut-ai` Python library](https://github.com/sae-llm-coconu
 ### Usage
 
 ```sh
-# Go to AUTOMATIC1111/Stable Diffusion web UI source code
-cd stable-diffusion-webui
-
-# Run the AUTOMATIC1111/Stable Diffusion Web API
-./webui.sh --api --nowebui
-
-# Go to coconut-ai-example source code
-cd ../coconut-ai-example
-pipenv install
-
-# Run the coconut-ai example script
-pipenv run start --type="text_to_image" --input="Coconut" --output="./data/output.png"
+pipenv run start
 ```
 
 ## 💡 Contributing

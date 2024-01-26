@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "71fc20168b7ab635cf353b0aaaa5b860dce9ae4fb5dcc986da26b3680d544fb8"
+            "sha256": "15d5983da3f0219d82273b4edbc926ba4b25edaed3c3f3a6e6018c0f9ed9c906"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -122,11 +122,11 @@
         },
         "coconut-ai": {
             "hashes": [
-                "sha256:a5c89051e224c526f1b8ac86c70269626b9769b067ef7f524e1bc38d07336296"
+                "sha256:726f23d7a58a7bc5fec806374a31676810dd2edd087e30a8451f51faa224c249"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.10' and python_version < '3.11'",
-            "version": "==0.2.0"
+            "version": "==1.0.0"
         },
         "diskcache": {
             "hashes": [
