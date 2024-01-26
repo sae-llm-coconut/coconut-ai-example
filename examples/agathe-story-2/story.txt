@@ -1,6 +1,6 @@
 Create a story for children, featuring a little girl named Agathe, who takes the throne of the Snow Queen.
 
-prompt_number: 1, prompt: 
+prompt_number: 1, prompt:
 [SYS] <<COM>>
     You are a helpful assistant
     <</COM>>

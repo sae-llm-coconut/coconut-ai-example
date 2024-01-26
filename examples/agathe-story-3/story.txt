@@ -1,6 +1,6 @@
 Create a story for children, featuring a little girl named Agathe, who takes the throne of the Snow Queen.
 
-prompt_number: 1, prompt: 
+prompt_number: 1, prompt:
 
 [/SYS]
 
@@ -11,5 +11,3 @@ Agathe takes a deep breath. "I can do this!" She says and puts down the brush. T
 The little girl opens the door to leave the room but she hears a loud noise coming from the other side of it. She looks behind the door and sees a giant snow monster standing there. The monster is holding a big snow shovel in one hand and a snowball in another. He has a big smile on his face, and he is clearly excited to see Agathe.
 
 "Hello, little girl!" He says with a cheerful voice. "I heard you were going to be the next Queen of our kingdom, so I brought a gift for you! It's this snowball right here." The monster throws the snowball at Agathe. She doesn't have time to react before it hits her square in the face and covers her completely white hair with a thick layer of snow.
-
-

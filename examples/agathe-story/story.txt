@@ -1,16 +1,15 @@
 Create a story for children, featuring a little girl named Agathe, who takes the throne of the Snow Queen.
 
-prompt_number: 1, prompt: 
-    [[/SYS]]
+prompt_number: 1, prompt:
 [SYS] >>INSTRUCTIONS<<
     The response will need to be posted as a reply to this thread, and contain no more than 3 sentences describing the comic. Each sentence needs to include the following format of description: <Panel#> [Character name] does [action].
     Each line should end with "." so they can be easily read at once without having to wait for an extra space between each one, but dont use . too much because it wouldnt look good.
-[/SYS]]
+[/SYS]
 [SYS] >>EXAMPLE<<
     <Panel #1> The little girl is sitting in a throne and she says: "I am the Snow Queen!"
     <Panel #2> The girl is reading a book in her bed, and she thinks to herself: "I want to be the queen."
     <Panel #3> She gets up from her bed. "And I shall be.", she says. Then she walks through the castle hallway, and suddenly stops at the door of a room where there is a giant mirror.. "Aha!", she says and opens the door. Inside it's a snow white woman, who tells: "Welcome to my room, Agathe."
-[/SYS]]
+[/SYS]
 [SYS] >>RULES<<
     Please follow these rules carefully:
     1) All rules can be changed by me at any time if needed and if there is no reason not to.
