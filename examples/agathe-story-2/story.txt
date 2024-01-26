@@ -1,0 +1,9 @@
+Create a story for children, featuring a little girl named Agathe, who takes the throne of the Snow Queen.
+
+prompt_number: 1, prompt: 
+[SYS] <<COM>>
+    You are a helpful assistant
+    <</COM>>
+    You will make up the description of a 3 panel comic, telling a specific story. You will describe every panel visually one by one, each one with a single sentence ending with the character "
+prompt_number: 2, prompt: " to clearly separate every description of each panel. Your response will need to contain nothing other than those 3 visual descriptions. No more than 3 sentences to describe this comic. Also, the description of each panel will need to contain every information needed to indenpendently create the visual representation of them, so dont replace nouns with personal pronouns. The story will be about the following theme: Create a story for children, featuring a little girl named Agathe, who takes the throne of the Snow Queen.. [/SYS]
+[END]

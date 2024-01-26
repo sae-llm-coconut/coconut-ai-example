@@ -1,6 +1,8 @@
 # coconut-ai-example
 
-Example usage of [`coconut-ai` Python library](https://github.com/sae-llm-coconut/coconut-ai/), to generate comics story in 3-4 panels, first by using [LLama 2](https://ai.meta.com/llama/) to generate the story, then by using [AUTOMATIC1111/Stable Diffusion Web API](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to generate the images.
+Example usage of [`coconut-ai` Python library](https://github.com/sae-llm-coconut/coconut-ai/), to generate a comic story in 3-4 panels, first by using [LLama 2](https://ai.meta.com/llama/) to generate the story, then by using [AUTOMATIC1111/Stable Diffusion Web API](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to generate the images.
+
+You can see examples of generated stories in the [`examples`](./examples) folder.
 
 ## Getting Started
 

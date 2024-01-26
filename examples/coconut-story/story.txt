@@ -1,0 +1,19 @@
+[SYS] <<COC>>
+    A coconut is on a hill
+    <</COC>>
+    A bird comes by and asks for it
+prompt_number: 1, prompt is
+    <</COC>>
+    The bird takes it, but drops it in the process
+prompt_number: 2, prompt is
+    <</COC>>
+    It rolls down to the bottom of the hill and crushes a guy's skull
+prompt_number: 3, prompt is
+    <</COC>>
+    The guy's ghost comes up from hell, sees his own skull lying there, screams and disappears again
+prompt_number: 4, prompt is
+    <</COC>>
+    A crab comes by and asks for it
+prompt_number: 5, prompt is
+    <</COC>>
+    The bird tries to give the coconut to the crab but drops it in the process
